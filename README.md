@@ -44,16 +44,13 @@ This project provides an in-depth analysis of traffic flow, road accidents, and 
 ## Data Sources
 - **Traffic Flow Data**: Sourced from Irish transport authorities.
 - **Road Collision Data**: Government reports and police records (2013–2022).
+- **Environmental Data**: Air quality monitoring systems (CO, NOx, PM levels).
+- **PostgreSQL Database**: Centralized storage for structured datasets.
 
-##Data
+## Data
 - Collision Dataset provided in data file
 - Air Emission provided in data file
 - **linkes for Traffic Flow Data**
 - https://data.gov.ie/dataset/traffic-flow-data-jan-to-june-2022-sdcc
 - https://data.gov.ie/dataset/traffic-flow-data-june-to-december-2022-sdcc1
 
-
-
-
-- **Environmental Data**: Air quality monitoring systems (CO, NOx, PM levels).
-- **PostgreSQL Database**: Centralized storage for structured datasets.
