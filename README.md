@@ -8,7 +8,7 @@ This project provides an in-depth analysis of traffic flow, road accidents, and 
 ### 1. Traffic Flow Analysis
 - Evaluates vehicle movement efficiency and congestion trends over time.
 - Uses **time-series decomposition** to analyze daily, weekly, and seasonal traffic patterns.
-- Implements **Facebook Prophet** for forecasting traffic congestion.
+- Implements **Facebook Prophet** for forecasting traffic congestion. 
 
 ### 2. Collision Data Study
 - Examines historical traffic accidents (2013–2022) across Irish regions.
