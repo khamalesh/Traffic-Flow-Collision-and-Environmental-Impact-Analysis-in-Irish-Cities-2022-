@@ -1,5 +1,6 @@
 # Traffic Analysis and Environmental Impact Dashboard
 
+1[image alt](https://github.com/khamalesh/Traffic-Flow-Collision-and-Environmental-Impact-Analysis-in-Irish-Cities-2022-/blob/59db3c7e2b966b83c0548fe5c72ec35cbf343268/traffic.jpg)
 ## Overview
 This project provides an in-depth analysis of traffic flow, road accidents, and their environmental impact in Irish cities for the year 2022. It integrates data from traffic monitoring systems, road collision reports, and environmental sensors to identify patterns, correlations, and trends. The interactive dashboard allows users to explore insights through visualizations and machine learning forecasts, offering actionable recommendations for urban planners and policymakers.
 
